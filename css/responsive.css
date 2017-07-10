@@ -342,24 +342,7 @@ px      68    160    252    */
 					contact Start
 -----------------------------------------------*/
   /*--
-	slider-contact Start 
---*/
-  #slider-contact {
-    padding-top: 100px;
-    padding-bottom: 100px;
-  }
-  #slider-contact .block {
-    padding-left: 0px;
-  }
-  #slider-contact .block h1 {
-    font-size: 20px;
-  }
-  #slider-contact .block p {
-    font-size: 11px;
-    line-height: 25px;
-  }
-  /*--
-	wrapper-contact Start 
+	wrapper-contact Start
 --*/
   #wrapper-contact .block {
     padding-bottom: 50px;
