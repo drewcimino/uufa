@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2017-07-06 19:32:42 +0300
-categories: jekyll update
+title:  "Another Installment of the Seven Hills Classic!"
+date:   2016-09-12 19:32:42 +0300
+author: Drew Cimino
+categories: tournaments kampala
 ---
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
