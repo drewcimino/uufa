@@ -127,7 +127,7 @@
 
 /*-- Feature Start --*/
 #feature {
-  background: url("../img/featue-bg.jpg");
+  background: url("../img/queenie.jpg");
   background-position: 50% 94px;
   width: 100%;
   display: block;
@@ -154,7 +154,7 @@
   margin-bottom: 30px;
 }
 #feature p {
-  color: #8d8f92;
+  /*color: #8d8f92;*/
   margin-bottom: 20px;
 }
 #feature .btn-view-works {
