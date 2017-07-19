@@ -115,7 +115,6 @@
   -webkit-transition: .3s all;
   -o-transition: .3s all;
   transition: .3s all;
-  text-align: center;
 }
 #portfolio-work .block .portfolio-contant .position-center {
   position: absolute;
